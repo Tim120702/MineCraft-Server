@@ -1,0 +1,31 @@
+********************************* 请不要打开自动换行 ***********************************
+******************* 指令里面所有的括号都不用打 若需要打会特别指出 *******************
+
+重生点	spawnpoint	bukkit服务器自带重生点 (将来会被禁用)
+	mv spawnpoint	multiverse重生点（建议使用）
+
+时间设置	time set [Time]	设置时间为 'Time'（将来仅OP可使用）
+
+游戏模式	gamemode [Type]	Type = 0-生存 / 1-创造
+			注意生存模式和创造模式间有背包隔离 切换模式前请清空
+			背包（尽管会有自动保存 但不保证完全没有物品丢失）
+
+附魔物品	enchantment	请自己查找附魔编号( 1.7.10 ) （将来会被禁用）
+药水效果	effect		请自己查找效果编号( 1.7.10 ) （将来会被禁用）
+
+传送指令	tp		
+	tpa
+	mv tp [WorldName]	传送到名为 'WorldName' 的世界 
+	
+信息	mv list		列出你可以进入的世界名称
+	mv coord		指出你现在的坐标（但你有小地图）
+	compass		查看你的朝向（但你有小地图）
+
+生成物品	bigtree [Type]	Type = tree \ redwood \ jungle  
+			生成一棵树
+	firework [Type]	Type 请使用 /firework help 查看  
+			修改一堆烟花
+	give [Type]	Type 请使用 /give help查看
+			给玩家一些东西 请自己查找物品编号
+	hat [remove]	不加 remove 时可以把手里的东西戴在头上
+	
