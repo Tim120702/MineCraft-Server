@@ -1,3 +1,2 @@
 # MineCraft-Server
-Write Somthing About Server Updates
-Check Progress In Branches PLZ
+Check Progress In Branches PLZ ## Write Somthing About Server Updates
